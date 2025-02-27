@@ -4,7 +4,7 @@
     <td align="center">
       <b>Embarca Tech - CEPEDI</b><br>
       Capacitação Inicial em Sistemas Embarcados<br>
-      U4 - Microcontroladores<br>
+      U7 - Projeto Final<br>
       <b>Discente - Rodrigo Damasceno Sampaio (Grupo 9)</b>
     </td>
     <td><img src="image2.png" width="100"></td>
